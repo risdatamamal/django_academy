@@ -11,3 +11,9 @@ Then activate that environment
 ```
 venv\Scripts\activate
 ```
+
+To run server
+
+```
+python manage.py runserver
+```
